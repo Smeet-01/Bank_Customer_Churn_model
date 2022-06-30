@@ -2,7 +2,7 @@
 Link to Dataset: https://www.kaggle.com/datasets/adammaus/predicting-churn-for-bank-customers?datasetId=66163&sortBy=voteCount
 
 Details about the dataset:
-It consists of 10000 observations and 12 variables. Independent variables contain information about customers. Dependent variable refers to customer abandonment status.
+It consists of 10000 observations and 14 variables. Independent variables contain information about customers. Dependent variable refers to customer abandonment status.
 
 
 ### Report: -
